@@ -1,5 +1,5 @@
 # Drone-Power-Delivery-board
-This supposed to be high current capability such as 30A for each ESC. Not completed.
+This supposed to be high current capability such as 120A. 30A for each ESC. Not completed.
 
 ![image](https://user-images.githubusercontent.com/83834665/117589296-52775c00-b131-11eb-9caa-3cb64f394d1d.png)
 
